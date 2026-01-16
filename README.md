@@ -2,11 +2,11 @@
 Time-series modelling of stock prices for Apple, Alphabet, Amazon and Meta
 
 # Stock Prices 2025 Trend
-![]("TechStockPrices.jpg")
+![](TechStockPrices.jpg)
 
 # Trends and Predictions
-![]("ModellingStocks.jpg")
+![](ModellingStocks.jpg)
 
 # Prediction Errors
 Prediction Mean Absolute Errors for window average, seasonal average and AutoRegressive Integrated Moving Average (ARIMA) time-series models:
-![]("ModellingErrors.jpg")
+![](ModellingErrors.jpg)
