@@ -8,5 +8,5 @@ Time-series modelling of stock prices for Apple, Alphabet, Amazon and Meta
 ![](ModellingStocks.jpg)
 
 # Prediction Errors
-Prediction Mean Absolute Errors for window average, seasonal average and AutoRegressive Integrated Moving Average (ARIMA) time-series models:
+Mean Absolute Error for window average, seasonal average and AutoRegressive Integrated Moving Average (ARIMA) time-series models:
 ![](ModellingErrors.jpg)
